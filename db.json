@@ -1,7 +1,7 @@
 {
   "categories": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 1, "title": "دسته 1", "description": "توضیحات" },
+    { "id": 2, "title": "دسته 2", "description": "توضیحات" },
+    { "id": 3, "title": "دسته 3", "description": "توضیحات" }
   ]
 }
