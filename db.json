@@ -1,6 +1,6 @@
 {
   "categories": [
-    { "id": 1, "title": "دسته 1", "description": "توضیحات" },
+    { "id": 1, "title": "دسته 1" },
     { "id": 2, "title": "دسته 2", "description": "توضیحات" },
     { "id": 3, "title": "دسته 3", "description": "توضیحات" }
   ]
