@@ -1,7 +1,41 @@
 {
-  "categories": [
-    { "id": 1, "title": "دسته 1" },
-    { "id": 2, "title": "دسته 2", "description": "توضیحات" },
-    { "id": 3, "title": "دسته 3", "description": "توضیحات" }
+  "typePost": "serviceSet",
+  "name": "مالی پاسارگاد",
+  "businessName": "بانک پاسارگاد",
+  "image": {
+    "name": "",
+    "hash_code": "",
+    "id": ""
+  },
+  "subscriptions": [
+    {
+      "name": "",
+      "id": ""
+    }
+  ],
+  tags: "",
+  "webservices": [
+    {
+      "name": "آب و هوا",
+      "id" : "1000",
+      serviceProvider:"پاد",
+      createdAt:"99/05/27",
+      updatedAt:"99/05/28",
+      status:"pending",
+      version:"1.3" // serviceVersion
+    },
+    {
+      "name": "دریافت زمان",
+      "id": "2000",
+      serviceProvider:"پادیوم",
+      createdAt:"99/05/23" // server date
+      updatedAt:"99/05/26" // server date
+      status:"edited",
+      version:"1.7" // serviceVersion
+    }
   ]
+  serviceCategory: "بانکی",
+  status:"show",
+  createdAt:"99/05/29" // server date
+  updatedAt:"99/06/27" // server date
 }
